@@ -35,7 +35,7 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -58,16 +58,16 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Asia/Seoul # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: 아직은 언타이틀 # Needed for Siteleaf
+    title: 서비스 품질을 이끄는 사람들 # Needed for Siteleaf
     output: true
-    description: "포스트 그림안에 설명글이네?" # The post list page content
-    feature_text: |
-      여긴 포스트네?
+    description: "" # The post list page content
+#    feature_text: |
+#      여긴 포스트네?
     feature_image: "https://images.unsplash.com/photo-1518306896927-d58c59c07b82?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyMDQ0MDF8MHwxfHNlYXJjaHw5fHxzZWFyY2h8ZW58MHwwfHx8MTcyNjcxOTIzMHww&ixlib=rb-4.0.3&q=85"
 
 # 6. Jekyll collections settings
@@ -93,15 +93,15 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: ko-KR- # Set the site language
-title: "맨밑과 사이트탭 타이틀이네?" # Site name or title, also used in jekyll-seo-tag
+title: "우리들의 이야기" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "이건 상세 설명일까?" # Site description and default description, also used in jekyll-seo-tag 엘레멘츠의 사이트 설명이네
 url: "https://kurlyqa.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "daye.kim@kurlycorp.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
+date_format: "%B %-d %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
@@ -123,20 +123,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+#- title: Elements
+#  url: /elements/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+#- title: Categories
+#  url: /categories/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
 
-navigation_footer:
-- title: Created by 풀큐
-  url: https://darn.es
+#navigation_footer:
+#- title: Created by Someone
+#  url: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
