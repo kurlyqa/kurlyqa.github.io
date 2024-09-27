@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: ko-KR- # Set the site language
-title: "우리들의 이야기" # Site name or title, also used in jekyll-seo-tag
+title: "품질을 이끄는 우리들의 이야기" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "이건 상세 설명일까?" # Site description and default description, also used in jekyll-seo-tag 엘레멘츠의 사이트 설명이네
 url: "https://kurlyqa.github.io/" # Site url, also used in jekyll-seo-tag

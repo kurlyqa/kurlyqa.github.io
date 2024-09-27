@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR-"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ko-KR-" /><updated>2024-09-24T15:57:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">우리들의 이야기</title><subtitle>이건 상세 설명일까?</subtitle><author><name>DavidDarnes</name></author><entry><title type="html">Description of a Pot Still</title><link href="http://localhost:4000/general/2016/08/29/example-post-three/" rel="alternate" type="text/html" title="Description of a Pot Still" /><published>2016-08-29T00:00:00+09:00</published><updated>2016-08-29T00:00:00+09:00</updated><id>http://localhost:4000/general/2016/08/29/example-post-three</id><content type="html" xml:base="http://localhost:4000/general/2016/08/29/example-post-three/"><![CDATA[<p>A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko-KR-"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="ko-KR-" /><updated>2024-09-26T16:39:39+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">품질을 이끄는 우리들의 이야기</title><subtitle>이건 상세 설명일까?</subtitle><author><name>DavidDarnes</name></author><entry><title type="html">Testone</title><link href="http://localhost:4000/2024/09/22/testone/" rel="alternate" type="text/html" title="Testone" /><published>2024-09-22T00:00:00+09:00</published><updated>2024-09-22T00:00:00+09:00</updated><id>http://localhost:4000/2024/09/22/testone</id><content type="html" xml:base="http://localhost:4000/2024/09/22/testone/"><![CDATA[<p>첫 테스트</p>
+
+<h2 id="처음-테스트로-포스팅해보는-글">처음 테스트로 포스팅해보는 글</h2>
+
+<ul class="task-list">
+  <li>List item</li>
+  <li>List item</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />List item</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>아하</th>
+      <th>이렇게?</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>오 좋네</td>
+      <td>짱임</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>줄바꿈</p>
+
+<p>줄   바꿈</p>
+
+<p>줄    바꿈</p>
+
+<p>줄 바꿈<br />
+줄<br />바꿈</p>
+
+<blockquote>
+  <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+
+<!-- more -->]]></content><author><name>DavidDarnes</name></author><summary type="html"><![CDATA[첫 테스트 처음 테스트로 포스팅해보는 글 List item List item List item 아하 이렇게?   오 좋네 짱임   줄바꿈 줄 바꿈 줄 바꿈 줄 바꿈 줄바꿈 Written with StackEdit.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Description of a Pot Still</title><link href="http://localhost:4000/general/2016/08/29/example-post-three/" rel="alternate" type="text/html" title="Description of a Pot Still" /><published>2016-08-29T00:00:00+09:00</published><updated>2016-08-29T00:00:00+09:00</updated><id>http://localhost:4000/general/2016/08/29/example-post-three</id><content type="html" xml:base="http://localhost:4000/general/2016/08/29/example-post-three/"><![CDATA[<p>A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).</p>
 
 <p>At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called “low wines”. The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.</p>
 
